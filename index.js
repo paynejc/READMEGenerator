@@ -11,7 +11,11 @@ const questions = [
         name: 'github',
         message: 'What is your GitHub username?',
     },
-
+    {
+        type: 'input',
+        name: 'email',
+        message: 'What is your email address?',
+    },
     {
         type: 'input',
         name: 'title',
@@ -32,13 +36,24 @@ const questions = [
         type: 'input',
         name: 'installation',
         message: 'What command should be run to install dependencies?',
+        default: 'npm i',
+    },
+    {
+        type: 'input',
+        name: 'test',
+        message: 'What command should be run to run tests?',
+        default: 'npm test',
     },
     {
         type: 'input',
         name: 'usage',
         message: 'What does the user need to know about using it?',
     },
-
+    {
+        type: 'input',
+        name: 'contributing',
+        message: 'What does the user need to know about contributing to the repo?',
+    },
 ];
 
 // TODO: Create a function to write README file
