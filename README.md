@@ -3,7 +3,7 @@
 
 ## Description
 
-Test
+This is a README Generator 
 
 
 ## Table of Contents 
@@ -11,23 +11,20 @@ Test
 * [Usage](#usage)
 * [License](#license)
 * [Contributing](#contributing)
-* [Tests](#tests)
 * [Questions](#questions)
 
 
 ## Installation
-npm i
+It was installed using npm i 
 ## Usage
-IDK BRO
+This can be used as a README for any application the user requires
 ## License
-
-This project is licensed under the MIT license.
+None at this time 
 ## Contributing
-Do whatever man
-#Tests
-npm test
+If you really want to contribute to my README Homework feel free to find it on my github profile. 
+
 ## Questions
-undefined
+
 If you have any questions about the repo, open an issue or contact me directly at nah@gmail.com. You can find more of my work at [paynejc](https://github.com/paynejc/).
 
 
